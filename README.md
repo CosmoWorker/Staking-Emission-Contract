@@ -1,8 +1,12 @@
-# <h1 align="center"> Forge Template </h1>
-
-**Template repository for getting started quickly with Foundry projects**
-
-![Github Actions](https://github.com/foundry-rs/forge-template/workflows/CI/badge.svg)
+# <h1 align="center"> Forge - Staking Emission Contract with Token</h1>
+## Overview
+This contract allows users to stake and unstake Ethereum(ETH) and earn rewards in the form of an ERC20 token, AstroCoin (🧑🏼‍🚀). This contracts facilitates staking, unstaking and reward claiming while holding their ETH by staking. It contains comprehensive tests which pass the contract ability to provide those above said features.
+## Features
+ * Staking ETH
+ * Reward Emission (ERC20 token)
+ * Unstaking ETH
+ * Claiming Rewards
+ * Security- Built-in Checks
 
 ## Getting Started
 
